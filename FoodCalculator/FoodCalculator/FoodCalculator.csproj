@@ -45,16 +45,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FoodCalculator.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FoodCalculator.Designer.cs">
+      <DependentUpon>FoodCalculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KindOfFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KindOfFood.Designer.cs">
+      <DependentUpon>KindOfFood.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FoodCalculator.resx">
+      <DependentUpon>FoodCalculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KindOfFood.resx">
+      <DependentUpon>KindOfFood.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
