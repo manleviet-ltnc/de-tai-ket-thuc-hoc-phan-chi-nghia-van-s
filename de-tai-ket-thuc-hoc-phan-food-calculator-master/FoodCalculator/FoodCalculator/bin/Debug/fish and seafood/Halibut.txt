@@ -1,0 +1,11 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Halibut				
+ 1/2 fillet\	4.67\	-\	42.45\	224\
+ 1 fillet\	9.34\	-\	84.9\	449\
+ 3 oz\	1.95\	-\	17.69\	94\
+ 4 oz\	2.6\	-\	23.58\	125\
+ 5 oz\	3.24\	-\	29.48\	156\
+ 1/2 fillet Cooked Halibut\	4.67\	-\	42.44\	223\
+ 4 oz Battered Halibut\	6\	21\	14\	200\
+ 1 serving Broiled Halibut\	4\	26\	22\	160\
+ 1 fillet Cooked Flounder\	5.51\	0.53\	28.6\	173\

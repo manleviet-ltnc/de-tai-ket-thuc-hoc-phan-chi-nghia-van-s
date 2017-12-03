@@ -1,0 +1,18 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories								
+Popular Types of Artichokes												
+ 1 oz\	0.04\	2.98\	0.93\	13\								
+ 1 medium\	0.19\	13.45\	4.19\	60\								
+ 1 large\	0.24\	17.03\	5.3\	76\								
+ 1 heart\	2.35\	2.87\	0.89\	33\								
+ 1 cup\	10.92\	13.33\	4.15\	155\								
+ 1 oz\	2.38\	2.91\	0.91\	34\								
+ 1 oz\	0.65\	3.08\	0.96\	19\								
+ 1 small globe\	2.36\	11.2\	3.47\	69\								
+ 1 medium globe\	2.86\	13.59\	4.21\	84\								
+ 1 large globe\	3.6\	17.07\	5.29\	105\								
+ 1 Artichoke Heart\	0.64\	3.04\	0.94\	19\								
+ 1/2 cup Artichoke Hearts\	1.98\	9.4\	2.91\	58\								
+ Jerusalem Artichokes\	0.01\	13.08\	1.5\	57\								a
+ Canned Artichokes\	1.98\	9.4\	2.91\	58\								
+ Artichoke Salad in Oil\	5.46\	6.67\	2.07\	77\								
+ Stuffed Artichokes\	1.7\	6.4\	1.74\	47\								

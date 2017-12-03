@@ -1,0 +1,33 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+ Regular English Muffin\	0.98\	25.62\	5.14\	132\
+ Mixed Grain English Muffin\	1.19\	30.56\	6.01\	155\
+ Multigrain English Muffin\	1.04\	26.85\	5.28\	136\
+ Oat Bran English Muffin\	2.02\	25.07\	5.43\	125\
+ Pumpernickel English Muffin\	1.72\	24.87\	5.51\	129\
+ Raisin Cinnamon English Muffin\	1.03\	27.42\	4.51\	137\
+ Rye English Muffin\	1.48\	26.22\	4.63\	136\
+ Wheat Bran English Muffin\	1.43\	24.91\	4.72\	127\
+ Wheat English Muffin\	1.14\	25.54\	4.96\	127\
+ Whole Wheat English Muffin\	1.16\	25.98\	5.05\	129\
+ Toasted Regular English Muffin\	1.01\	26.32\	5.16\	135\
+ Toasted Mixed Grain English Muffin\	1.16\	30.68\	6.04\	156\
+ Toasted Multigrain English Muffin\	0.95\	25.15\	4.95\	128\
+ Toasted Oat Bran English Muffin\	2.23\	27.72\	6\	138\
+ Toasted Pumpernickel English Muffin\	1.65\	23.91\	5.3\	124\
+ Toasted Raisin Cinnamon English Muffin\	1.15\	28.62\	4.61\	144\
+ Toasted Rye English Muffin\	1.43\	25.21\	4.45\	131\
+ Toasted Wheat Bran English Muffin\	1.42\	24.68\	4.68\	126\
+ Toasted Wheat English Muffin\	1.09\	25.32\	4.89\	126\
+ Toasted Whole Wheat English Muffin\	1.05\	24.35\	4.7\	122\
+ Egg, Cheese and Bacon on English Muffin\	19.36\	30.12\	20.83\	382\
+ Egg, Cheese and Ham on English Muffin\	13.38\	25.77\	20.05\	307\
+ Egg, Cheese and Sausage on English Muffin\	30.86\	30.97\	21.66\	487\
+ Cheese and Sausage on English Muffin\	24.26\	29.16\	15.34\	393\
+ Ham and Cheese on English Muffin\	11.78\	17.33\	17.79\	249\
+ Sausage and Cheese on English Muffin\	24.05\	28.91\	15.21\	390\
+ Cheese English Muffin\	1.89\	24.38\	5.61\	137\
+ English Muffin with Butter\	5.76\	30.36\	4.87\	189\
+ English Muffin with Fruit\	1.04\	27.63\	5.4\	141\
+ English Muffin with Raisins\	1.04\	27.9\	4.59\	139\
+ Oat Bran English Muffin with Raisins\	1.86\	27.63\	5.12\	132\
+ 100% Whole Wheat English Muffin with Raisins\	1.42\	30.06\	5.13\	143\

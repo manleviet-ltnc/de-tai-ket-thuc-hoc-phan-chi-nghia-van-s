@@ -1,0 +1,12 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Haddock				
+ 1 fillet\	5.71\	0.74\	34\	197\
+ 4 oz\	4.21\	0.54\	25.04\	145\
+ 1 cup flaked\	5.05\	0.65\	30.03\	174\
+ Baked or Broiled Haddock\	5.71\	0.74\	34\	197\
+ Baked Breaded or Battered Haddock\	16.51\	15.72\	37.66\	370\
+ Steamed or Poached Haddock\	1.4\	-\	36.87\	169\
+ Fried Battered Haddock\	14.77\	12.7\	33.53\	326\
+ Fried Floured or Breaded Haddock\	19.98\	15.1\	36.89\	395\
+ 1 piece Smoked Haddock\	0.19\	-\	5.05\	23\
+ 1 Haddock Cake or Patty\	12.59\	14.86\	16.38\	241\
