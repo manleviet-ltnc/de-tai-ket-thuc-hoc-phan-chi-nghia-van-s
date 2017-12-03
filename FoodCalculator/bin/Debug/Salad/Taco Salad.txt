@@ -1,0 +1,9 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Taco Salad				
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\
+ 1/2 cup\	4.92\	7.86\	4.41\	 1/2 cup\

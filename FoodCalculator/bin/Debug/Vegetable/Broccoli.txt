@@ -1,0 +1,18 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories						
+Popular Types of Broccoli										
+ 1/2 cup chopped\	0.17\	3.02\	1.28\	15\						
+ 1 cup chopped\	0.34\	6.04\	2.57\	31\						
+ 1 spear\	0.11\	2.06\	0.87\	11\						
+ 1 oz\	0.1\	1.88\	0.8\	10\						
+ 1 cup chopped\	3.89\	9.9\	5.69\	85\						
+ 1 cup flowerets\	2.1\	5.34\	3.07\	46\						
+ 1 oz Broccoli Raab\	0.14\	0.81\	0.9\	6\						
+ 1 oz Broccoli Leaves\	0.1\	1.49\	0.84\	8\						
+ 1 cup Chinese Broccoli\	0.63\	3.35\	1\	19\						
+ Fried Broccoli\	8.81\	9.8\	3.26\	126\						
+ Broccoli Soup\	11.9\	17.92\	8.15\	206\						
+ Broccoli Salad\	36.85\	17.49\	9.52\	433\						
+ Broccoli with Cheese Sauce\	13.45\	13.22\	12.56\	214\						
+ Broccoli with Cream Sauce\	9.96\	15.73\	7.75\	173\						
+ Broccoli with Mushroom Sauce\	5.52\	13.22\	5.86\	116\						
+ Broccoli Casserole\	16.78\	33.99\	8.57\	315\						

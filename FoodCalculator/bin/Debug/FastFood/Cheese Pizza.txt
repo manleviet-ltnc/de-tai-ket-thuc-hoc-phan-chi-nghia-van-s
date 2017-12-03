@@ -1,0 +1,12 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Cheese Pizza				
+ Cheese Pizza\	10.1\	26.08\	10.6\	237\
+ Cheese Pizza with Vegetables\	8.95\	30.93\	9.33\	242\
+ Thin Crust Cheese Pizza\	9.27\	21.79\	9.25\	208\
+ Thin Crust Cheese Pizza with Vegetables\	8.11\	23.99\	8.59\	202\
+ Thick Crust Cheese Pizza\	10.02\	30.07\	11.47\	256\
+ Thick Crust Cheese Pizza with Fruit\	10.18\	42.83\	10.7\	307\
+ Thick Crust Cheese Pizza with Vegetables\	9.87\	39.06\	10.14\	287\
+ 1 Frozen Cheese Pizza\	24.44\	57.75\	20.62\	533\
+ 1 Topping from slice Cheese Pizza\	2.99\	1.9\	3.49\	48\
+ 1 piece Thin Crust No Cheese Pizza\	3.71\	22.03\	3.08\	134\

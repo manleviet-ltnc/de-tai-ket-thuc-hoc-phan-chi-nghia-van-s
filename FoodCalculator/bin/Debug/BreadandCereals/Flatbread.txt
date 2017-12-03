@@ -1,0 +1,20 @@
+Popular Types of Flatbread	Fat(g)	Carbs(g)	Prot(g)	Calories
+				
+ 1 small Roti\	0.35\	15.07\	2.59\	71\
+ 1 medium Roti\	0.52\	22.32\	3.84\	106\
+ 1 large Roti\	0.68\	29.02\	4.99\	137\
+ 1 piece\	5.1\	18.8\	3.74\	137\
+ 10" Naan\	20.51\	75.61\	15.03\	550\
+ 1 slice\	6.1\	26.98\	4.41\	182\
+ 6" Flatbread\	12.2\	53.97\	8.82\	365\
+ 12" Flatbread\	30.49\	134.92\	22.06\	912\
+ 16" Flatbread\	48.79\	215.87\	35.29\	1459\
+ Organic Flatbread\	4\	6\	2\	50\
+ Gourmet Five Cheese Flatbread\	3.5\	14\	4\	100\
+ Flax & Honey Flatbread\	1.5\	14\	2\	80\
+ Gourmet Cinnamon Flatbread\	1.5\	20\	2\	110\
+ Middle Eastern Flatbread\	3\	27\	4\	150\
+ Onion Flatbread\	7\	30\	14\	240\
+ Hummus Flatbread\	4\	18\	4.5\	125\
+ Flatbread Light Original\	2.5\	12\	9\	90\
+ Sunflower Cheese Flatbread\	5\	10\	5\	105\
