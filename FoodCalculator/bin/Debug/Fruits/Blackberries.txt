@@ -1,0 +1,17 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Blackberries				
+ 1/4 cup\	0.18\	3.46\	0.5\	15\
+ 1/2 cup\	0.35\	6.92\	1\	31\
+ 1 cup\	0.71\	13.84\	2\	62\
+ 1 oz\	0.14\	2.72\	0.39\	12\
+ 1 blackberry\	-\	0.51\	0.03\	2\
+ 10 blackberries\	0.03\	5.08\	0.29\	20\
+ 1/4 cup\	0.09\	14.78\	0.84\	59\
+ 1/2 cup\	0.18\	29.57\	1.68\	118\
+ 1 cup\	0.36\	59.14\	3.35\	236\
+ Frozen Blackberries\	0.65\	23.66\	1.78\	97\
+ Sweetened Frozen Blackberries\	0.64\	27.52\	1.81\	115\
+ Blackberries in Heavy Syrup\	0.36\	59.14\	3.35\	236\
+ 1 cup Blackberry Juice\	1.5\	19.5\	0.75\	95\
+ 1 individual size Blackberry Pie\	16.57\	43.28\	3.67\	332\
+ 1 piece Two Crust Blackberry Pie\	18.75\	53.67\	4.25\	393\

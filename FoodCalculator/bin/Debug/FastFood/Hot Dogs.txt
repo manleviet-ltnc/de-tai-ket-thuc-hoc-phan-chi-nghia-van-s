@@ -1,0 +1,26 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Hot Dogs				
+ Plain Hot Dog\	14.98\	18.9\	9.06\	250\
+ Cocktail or Miniature Plain Hot Dog\	10.04\	12.68\	6.08\	168\
+ Hot Dog with Ketchup and Mustard\	16.59\	22.85\	10.24\	284\
+ Hot Dog with Cheese\	22.99\	22.25\	14.74\	358\
+ Hot Dog with Chili\	19.58\	27.68\	13.27\	339\
+ Hot Dog with Chili and Cheese\	24.53\	25.7\	16.36\	390\
+ Chicken Hot Dog\	11.02\	21.36\	9.74\	226\
+ Foot Long Hot Dog with Ketchup and Mustard\	25.6\	35.25\	15.79\	437\
+ Regular Frankfurter or Hot Dog\	14.89\	2.54\	7.22\	175\
+ Fat Free Frankfurter or Hot Dog\	0.8\	5.6\	6.25\	54\
+ Lowfat Beef Frankfurter or Hot Dog\	11.22\	0.97\	7.28\	136\
+ Beef Frankfurter or Hot Dog\	17.32\	2.46\	6.82\	194\
+ Beef and Pork Frankfurter or Hot Dog\	16.15\	1.04\	6.99\	180\
+ Chicken Frankfurter or Hot Dog\	11.21\	4.11\	7.84\	150\
+ Turkey Frankfurter or Hot Dog\	10.13\	0.9\	8.66\	132\
+ Meatless or Vegetarian Frankfurter or Hot Dog\	9.61\	5.39\	13.73\	163\
+ Low Salt Frankfurter or Hot Dog\	16.68\	1.09\	7.28\	186\
+ Baked Breaded Frankfurter or Hot Dog\	13.88\	3.97\	6.5\	169\
+ Chili-Filled Frankfurter or Hot Dog\	12.65\	2.84\	5.88\	149\
+ Bacon and Cheese-Filled Frankfurter or Hot Dog\	16.53\	0.86\	8.04\	186\
+ Cheese-Filled Frankfurter or Hot Dog\	13.1\	0.69\	6.35\	147\
+ Frankfurter or Hot Dog and Sauerkraut\	16.38\	3.62\	7.36\	192\
+ Frankfurter or Hot Dog with Tomato-Based Sauce\	10.48\	2.88\	4.74\	124\
+ Corn Dog\	18.06\	20.74\	8.26\	280\

@@ -1,0 +1,9 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Anchovies Serving Sizes				
+ 1 anchovy\	0.39\	-\	1.16\	8\
+ 6 anchovies\	2.33\	-\	6.93\	50\
+ 1 oz boneless\	2.75\	-\	8.19\	60\
+ 1 can drained (2 oz)\	4.37\	-\	13\	94\
+ Rolled Anchovies\	1\	-\	4\	25\
+ Flat Anchovies\	1\	-\	4\	25\
+ Anchovies with Capers in Olive Oil\	1\	-\	4\	25\

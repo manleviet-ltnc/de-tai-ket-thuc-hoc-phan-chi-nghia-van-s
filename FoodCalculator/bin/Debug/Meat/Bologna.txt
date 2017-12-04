@@ -1,0 +1,29 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories						
+Popular Serving Sizes of Bologna										
+ 1 thin slice\	3.44\	0.77\	2.13\	43\						
+ 1 medium slice\	6.97\	1.56\	4.31\	87\						
+ 1 thick slice\	10.57\	2.36\	6.54\	132\						
+ 1 cubic inch\	3.44\	0.77\	2.13\	43\						
+ 1/4 cup diced\	8.48\	1.89\	5.24\	106\						
+ Low Fat Beef Bologna\	4.14\	1.46\	3.3\	57\						
+ Pork Bologna\	5.63\	0.21\	4.34\	70\						
+ Pork and Beef Bologna\	7.76\	0.9\	3.11\	86\						
+ Low Fat Pork and Beef Bologna\	5.4\	0.73\	3.22\	64\						
+ Turkey Bologna\	4.55\	1.33\	3.24\	59\						
+ Pork and Chicken Bologna\	8.57\	1.17\	2.89\	94\						
+ Pork Chicken and Beef Bologna\	6.36\	1.57\	3.17\	76\						
+ Pork Chicken and Turkey Bologna\	7.33\	1.58\	2.77\	84\						
+ Veal Bologna\	7.89\	1.11\	2.88\	88\						
+ Bologna Sandwich with Spread\	12.08\	27.29\	8.09\	252\						
+ Bologna and Cheese Sandwich with Spread\	19.35\	29.3\	13.36\	346\						
+ 1 slice Bologna with Cheese\	6.93\	1.58\	4.36\	87\						
+ 1 slice Lebanon Bologna\	2.92\	0.12\	5.33\	52\						
+ 1 slice Smoked Bologna Ring\	6.97\	1.56\	4.31\	87\						
+ 1 slice Deer Bologna\	3.38\	0.48\	1.23\	38\						
+										
+										
+										
+										
+										
+										
+										

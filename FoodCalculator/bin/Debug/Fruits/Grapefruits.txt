@@ -1,0 +1,24 @@
+				
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Grapefruit				
+ 1 section\	0.02\	1.21\	0.09\	5\
+ 1 small\	0.2\	16.16\	1.26\	64\
+ 1 medium\	0.26\	20.68\	1.61\	82\
+ 1 large\	0.33\	26.83\	2.09\	106\
+ 1 cup\	0.23\	18.58\	1.45\	74\
+ 1 oz\	0.01\	1.13\	0.09\	4\
+ Pink and Red Grapefruit\	0.17\	13.11\	0.95\	52\
+ California and Arizona Pink and Red Grapefruit\	0.12\	11.92\	0.62\	46\
+ California White Grapefruit\	0.12\	10.73\	1.04\	44\
+ Florida Pink and Red Grapefruit\	0.12\	9.22\	0.68\	37\
+ Florida White Grapefruit\	0.12\	9.66\	0.74\	38\
+ Grapefruit in Water Pack\	0.24\	22.33\	1.42\	88\
+ Grapefruit in Juice Pack\	0.22\	22.93\	1.74\	92\
+ Grapefruit in Light Syrup Pack\	0.25\	39.22\	1.42\	152\
+ Grapefruit Juice\	0.25\	22.13\	1.28\	94\
+ Freshly Squeezed Grapefruit Juice\	0.25\	22.72\	1.24\	96\
+ Frozen Grapefruit Juice reconstituted with Water\	0.32\	23.86\	1.36\	101\
+ Grapefruit Juice Drink\	0.08\	32.48\	0.4\	128\
+ Low Calorie Grapefruit Juice Drink\	0.09\	7.46\	0.44\	32\
+ Pink Grapefruit Juice\	0.25\	22.72\	1.24\	96\
+ White Grapefruit Juice\	0.25\	22.72\	1.24\	96\

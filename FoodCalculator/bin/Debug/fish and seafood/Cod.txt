@@ -1,0 +1,13 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories						
+Popular Types of Cod										
+ Atlantic Cod\	1.55\	-\	41.14\	189\						
+ Pacific Cod\	0.73\	-\	20.76\	95\						
+ Baked or Broiled Cod\	3.05\	0.35\	17.78\	104\						
+ Fried Floured or Breaded Cod\	9.22\	7.02\	16.33\	179\						
+ Steamed or Poached Cod\	0.67\	-\	19.03\	87\						
+ Smoked Cod\	0.56\	-\	14.99\	69\						
+ Dried Salted Cod\	2.02\	-\	53.43\	247\						
+ 1 can Atlantic Cod\	2.68\	-\	71.01\	328\						
+ 1 tsp Cod Liver Fish Oil\	4.5\	-\	-\	41\						
+ 1 Codfish Ball or Cake\	6.61\	7.8\	8.6\	127\						
+ 1/2 fillet Lingcod\	2.05\	-\	34.08\	164\						

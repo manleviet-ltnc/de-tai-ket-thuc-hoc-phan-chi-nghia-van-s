@@ -1,0 +1,11 @@
+Popular Serving Sizes of Coconut	Fat(g)	Carbs(g)	Prot(g)	Calories
+				
+ 1 piece\	15.07\	6.85\	1.5\	159\
+ 1 cup shredded\	26.79\	12.18\	2.66\	283\
+ 1/2 Coconut\	66.48\	30.23\	6.61\	703\
+ 1 oz\	9.49\	4.32\	0.94\	100\
+ 1 oz Dried Coconut\	18.29\	6.7\	1.95\	187\
+ 1 oz Toasted Dried Coconut\	13.32\	12.59\	1.5\	168\
+ 1 cup Coconut Water\	0.48\	8.9\	1.73\	46\
+ 1 tbsp Coconut Milk or Cream\	5.2\	1\	0.54\	50\
+ 1 tbsp Coconut Oil\	13.6\	-\	-\	117\

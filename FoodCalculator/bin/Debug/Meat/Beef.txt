@@ -1,0 +1,57 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories					
+Popular Types of Beef									
+ 1/4 cup diced\	6.55\	-\	8.82\	96\					
+ 1/2 cup diced\	13.09\	-\	17.64\	193\					
+ 1 cup diced\	26.18\	-\	35.28\	386\					
+ 4 oz\	22.16\	-\	29.86\	327\					
+ 1 small patty\	12.63\	-\	17.24\	188\					
+ 1 medium patty\	15.79\	-\	21.55\	235\					
+ 1 large patty\	21\	-\	28.65\	312\					
+ 4 oz\	20.81\	-\	28.39\	309\					
+ 1 thin slice\	3.64\	-\	5.44\	56\					
+ 1 medium slice\	7.27\	-\	10.88\	112\					
+ 1 thick slice\	10.91\	-\	16.32\	168\					
+ 1 cup\	23.21\	-\	34.72\	358\					
+ 4 oz\	19.64\	-\	29.38\	303\					
+ 1 small steak\	22.97\	-\	41.75\	386\					
+ 1 medium steak\	30.62\	-\	55.67\	514\					
+ 1 large steak\	40.83\	-\	74.23\	685\					
+ 1 cup\	20.11\	-\	36.57\	338\					
+ 4 oz with bone\	13.81\	-\	25.11\	232\					
+ 4 oz boneless\	17.02\	-\	30.95\	286\					
+ 1 thin slice\	5.49\	-\	5.22\	72\					
+ 1 medium slice\	10.98\	-\	10.43\	144\					
+ 1 thick slice\	16.47\	-\	15.65\	215\					
+ 1 cup\	35.04\	-\	33.29\	458\					
+ 4 oz\	29.65\	-\	28.17\	388\					
+ 1 sausage\	3.78\	0.52\	1.44\	42\					
+ 1 patty\	7.85\	1.08\	2.98\	88\					
+ 1 cup diced\	40.13\	5.51\	15.24\	448\					
+ 4 oz\	32.57\	4.47\	12.36\	364\					
+ Beef Chuck\	22.79\	-\	19.32\	288\					
+ Beef Ribs\	31.97\	-\	18.25\	366\					
+ Beef Tenderloin\	26.15\	-\	20.3\	322\					
+ Beef Tip Round\	14.96\	-\	21.9\	228\					
+ Beef Top Loin\	20.32\	-\	21.55\	276\					
+ Beef Top Round\	10.73\	-\	25.02\	204\					
+ Porterhouse Steak\	19.63\	-\	21.78\	270\					
+ Retail Cuts Composite\	21.82\	-\	20.68\	285\					
+ Rib Eye Steak\	25.03\	-\	19.86\	311\					
+ Sirloin Steak\	25.89\	-\	31.86\	369\					
+ Skirt Steak\	14.9\	-\	22.76\	231\					
+ T-Bone Steak\	16.23\	-\	21.99\	240\					
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

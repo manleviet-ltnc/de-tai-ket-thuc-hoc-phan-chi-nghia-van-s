@@ -1,0 +1,13 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Baby Carrots				
+ 1 medium\	0.01\	0.82\	0.06\	4\
+ 1 large\	0.02\	1.24\	0.1\	5\
+ 10 medium\	0.13\	8.24\	0.64\	35\
+ 10 large\	0.2\	12.36\	0.96\	52\
+ 1 oz\	0.04\	2.34\	0.18\	10\
+ 3 oz\	0.11\	7.01\	0.54\	30\
+ 100 grams\	0.13\	8.24\	0.64\	35\
+ 1 cup Cooked Baby Carrots\	3.82\	12.3\	1.14\	83\
+ 3 oz Peeled Baby-cut Carrots\	-\	8\	1\	35\
+ 1 Baby Cut Carrots Mini Bag\	-\	6\	1\	25\
+ 1 cup Chopped Carrots\	0.31\	12.26\	1.19\	52\

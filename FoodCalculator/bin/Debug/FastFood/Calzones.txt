@@ -1,0 +1,16 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Burgers				
+ Hamburger\	9.77\	34.25\	12.32\	272\
+ Double Hamburger\	32.46\	38.74\	31.82\	576\
+ Triple Hamburger\	41.47\	28.59\	49.99\	692\
+ Cheeseburger\	14.15\	26.53\	15.96\	295\
+ Double Cheeseburger\	21.08\	35.19\	21.25\	417\
+ Triple Cheeseburger\	50.95\	26.69\	56.06\	796\
+ Chiliburger\	20.62\	29.64\	24.99\	409\
+ Soy Burger\	4.18\	9.38\	12.54\	125\
+ Veggie Burger\	4.41\	9.99\	10.99\	124\
+ Turkey Burger\	9\	-\	19\	160\
+ Ground Beef Hamburger\	17\	1\	18\	230\
+ Portabella Veggie Burger\	2.5\	15\	5\	90\
+ Spicy Black Bean Burger\	4\	13\	11\	120\
+ Meatless Burger with Soy Protein\	2.5\	9\	13\	100\
