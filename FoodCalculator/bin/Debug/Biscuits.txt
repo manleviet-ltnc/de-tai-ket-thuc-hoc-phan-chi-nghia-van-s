@@ -1,0 +1,21 @@
+						
+ 1 small|	2.28|	6.24|	0.98|	49|															
+ 1 regular|	9.78|	26.76|	4.2|	212|															
+ 1 large|	16.46|	45.05|	7.07|	357|															
+ Bacon Biscuit|	17.88|	40.4|	8.85|	357|															
+ Egg and Bacon Biscuit|	25.7|	23.63|	14.05|	378|															
+ Egg and Cheese Biscuit|	25.77|	35.46|	13.09|	426|															
+ Egg and Ham Biscuit|	19.43|	25.27|	14.68|	331|															
+ Egg and Sausage Biscuit|	34.83|	37.03|	17.24|	523|															
+ Egg and Steak Biscuit|	28.91|	50.44|	19.78|	541|															
+ Egg, Cheese and Bacon Biscuit|	18.85|	30.38|	12.57|	342|															
+ Egg, Cheese and Ham Biscuit|	24.57|	42.69|	18.57|	459|															
+ Egg, Cheese and Sausage Biscuit|	37.88|	33.76|	20.79|	560|															
+ Ham Biscuit|	17.28|	41.08|	12.56|	363|															
+ Sausage Biscuit|	30.24|	38.1|	11.53|	461|															
+ Cheese Biscuit|	5.66|	12.55|	2.78|	112|															
+ Whole Wheat Biscuit|	3.47|	13.87|	2.9|	93|															
+ Water Biscuit|	0.41|	2.87|	0.41|	17|															
+ Cinnamon Raisin Biscuit|	8.45|	34.56|	3.68|	225|															
+ Lower Fat Plain or Buttermilk Biscuit|	1.04|	10.95|	1.54|	59|															
+ Biscuit with Gravy|	31.65|	43.96|	12.35|	508|															

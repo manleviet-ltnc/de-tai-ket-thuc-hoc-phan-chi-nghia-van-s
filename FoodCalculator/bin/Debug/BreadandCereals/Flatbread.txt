@@ -1,5 +1,4 @@
-Popular Types of Flatbread	Fat(g)	Carbs(g)	Prot(g)	Calories
-				
+			
  1 small Roti\	0.35\	15.07\	2.59\	71\
  1 medium Roti\	0.52\	22.32\	3.84\	106\
  1 large Roti\	0.68\	29.02\	4.99\	137\
