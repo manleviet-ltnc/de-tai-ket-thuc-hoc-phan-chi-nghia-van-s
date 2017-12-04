@@ -46,6 +46,7 @@
             this.btnFoodCalories.TabIndex = 0;
             this.btnFoodCalories.Text = "Calories in Food Products";
             this.btnFoodCalories.UseVisualStyleBackColor = false;
+            this.btnFoodCalories.Click += new System.EventHandler(this.btnFoodCalories_Click);
             // 
             // btnBurnedCalories
             // 
