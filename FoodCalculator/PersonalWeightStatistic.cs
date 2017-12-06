@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FoodCalculator
 {
-    public partial class DetailFood : Form
+    public partial class PersonalWeightStatitics : Form
     {
-        public DetailFood()
+        public PersonalWeightStatitics()
         {
             InitializeComponent();
         }

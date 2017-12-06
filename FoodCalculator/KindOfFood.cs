@@ -16,5 +16,15 @@ namespace FoodCalculator
         {
             InitializeComponent();
         }
+
+        private void KindOfFood_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnFish_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

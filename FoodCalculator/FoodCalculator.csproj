@@ -51,6 +51,12 @@
     <Compile Include="FoodCalculator.Designer.cs">
       <DependentUpon>FoodCalculator.cs</DependentUpon>
     </Compile>
+    <Compile Include="FoodList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodList.Designer.cs">
+      <DependentUpon>FoodList.cs</DependentUpon>
+    </Compile>
     <Compile Include="KindOfFood.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FoodCalculator.resx">
       <DependentUpon>FoodCalculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FoodList.resx">
+      <DependentUpon>FoodList.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="KindOfFood.resx">
       <DependentUpon>KindOfFood.cs</DependentUpon>

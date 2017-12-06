@@ -1,9 +1,0 @@
-	Fat(g)	Carbs(g)	Prot(g)	Calories
-Popular Types of Tuna Salad				
- Tuna Salad\	22.92\	14.48\	29.68\	383\
- Tuna Fish Salad\	18.98\	19.29\	32.88\	383\
- Tuna Salad with Cheese\	30.62\	14.29\	30.04\	451\
- Tuna Salad with Egg\	26.89\	13.02\	28.52\	408\
- Tuna Salad Sandwich\	7.17\	36.38\	19.01\	287\
- Tuna Salad Sandwich with Lettuce\	7.18\	36.67\	19.1\	289\
- Tuna Salad Submarine Sandwich with Lettuce and Tomato\	16.38\	58.04\	25.35\	483\
