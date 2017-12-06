@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FoodCalculator
 {
-    public partial class BreadList : Form
+    public partial class BurnedCalories : Form
     {
-        public BreadList()
+        public BurnedCalories()
         {
             InitializeComponent();
         }

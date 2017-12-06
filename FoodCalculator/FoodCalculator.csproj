@@ -45,17 +45,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BurnedCalories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BurnedCalories.Designer.cs">
+      <DependentUpon>BurnedCalories.cs</DependentUpon>
+    </Compile>
     <Compile Include="FoodCalculator.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FoodCalculator.Designer.cs">
       <DependentUpon>FoodCalculator.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FoodList.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FoodList.Designer.cs">
-      <DependentUpon>FoodList.cs</DependentUpon>
     </Compile>
     <Compile Include="KindOfFood.cs">
       <SubType>Form</SubType>
@@ -63,16 +63,25 @@
     <Compile Include="KindOfFood.Designer.cs">
       <DependentUpon>KindOfFood.cs</DependentUpon>
     </Compile>
+    <Compile Include="PersonalWeightStatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonalWeightStatistic.Designer.cs">
+      <DependentUpon>PersonalWeightStatistic.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BurnedCalories.resx">
+      <DependentUpon>BurnedCalories.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FoodCalculator.resx">
       <DependentUpon>FoodCalculator.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FoodList.resx">
-      <DependentUpon>FoodList.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="KindOfFood.resx">
       <DependentUpon>KindOfFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonalWeightStatistic.resx">
+      <DependentUpon>PersonalWeightStatistic.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
