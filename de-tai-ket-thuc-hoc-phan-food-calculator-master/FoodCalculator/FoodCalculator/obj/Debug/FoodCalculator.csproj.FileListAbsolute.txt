@@ -1,9 +1,0 @@
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\bin\Debug\FoodCalculator.exe.config
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\bin\Debug\FoodCalculator.exe
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\bin\Debug\FoodCalculator.pdb
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.csprojResolveAssemblyReference.cache
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.Form1.resources
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.Properties.Resources.resources
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.csproj.GenerateResource.Cache
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.exe
-E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.pdb
