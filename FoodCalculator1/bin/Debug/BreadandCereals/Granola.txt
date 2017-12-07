@@ -1,0 +1,23 @@
+Popular Types of Granola	Fat(g)	Carbs(g)	Prot(g)	Calories
+				
+ Regular Granola\	6.12\	40.18\	5.12\	226\
+ Lowfat Granola\	2.8\	43.78\	4.51\	209\
+ Lowfat Granola with Raisins\	2.05\	32.8\	3.28\	150\
+ Granola Cereal\	14.86\	32.3\	9.07\	299\
+ Nonfat Granola Bar\	0.39\	33.37\	2.54\	147\
+ Lowfat Oats, Fruit and Nuts Granola Bar\	1.76\	21.68\	2.16\	111\
+ Granola Bar with Rice Cereal\	4.74\	18.23\	2.02\	120\
+ Oats, Sugar, Raisins and Coconut Granola Bar\	7.57\	28.68\	4.21\	200\
+ Peanuts, Oats, Sugar and Wheat Germ Granola Bar\	9.2\	27.39\	4.73\	206\
+ Soft Granola Bar\	4.82\	18.84\	2.07\	124\
+ Soft Raisin Granola Bar\	7.65\	28.55\	3.27\	193\
+ Soft Chocolate Chip Granola Bar\	7.14\	29.71\	3.14\	181\
+ Soft Nut and Raisin Granola Bar\	5.71\	17.81\	2.24\	127\
+ Soft Peanut Butter and Chocolate Chip Granola Bar\	5.6\	17.42\	2.74\	121\
+ Soft Peanut Butter Granola Bar\	4.42\	18.03\	2.94\	119\
+ Chocolate Coated Soft Chocolate Chip Granola Bar\	8.72\	22.33\	2.03\	163\
+ Chocolate Coated Soft Peanut Butter Granola Bar\	11.51\	19.76\	3.77\	188\
+ Hard Granola Bar\	4.95\	16.1\	2.52\	118\
+ Hard Almond Granola Bar\	6.12\	14.88\	1.85\	119\
+ Hard Chocolate Chip Granola Bar\	3.91\	17.3\	1.75\	105\
+ Hard Peanut Butter Granola Bar\	5.71\	14.95\	2.35\	116\

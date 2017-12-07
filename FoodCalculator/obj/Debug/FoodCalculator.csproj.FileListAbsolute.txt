@@ -7,3 +7,27 @@ E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculat
 E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.csproj.GenerateResource.Cache
 E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.exe
 E:\Data\GitHub\EndOfACourse\FoodCalculator\FoodCalculator\obj\Debug\FoodCalculator.pdb
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\bin\Debug\FoodCalculator.exe.config
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\bin\Debug\FoodCalculator.exe
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\bin\Debug\FoodCalculator.pdb
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.csprojResolveAssemblyReference.cache
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.FoodCalculator.resources
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.KindOfFood.resources
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.Properties.Resources.resources
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.csproj.GenerateResource.Cache
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.exe
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.pdb
+C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.Calories.resources
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\bin\Debug\FoodCalculator.exe.config
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\bin\Debug\FoodCalculator.exe
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\bin\Debug\FoodCalculator.pdb
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.Calories.resources
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.FoodCalculator.resources
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.KindOfFood.resources
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.exe
+C:\Users\Administrator\Downloads\ed\de-tai-ket-thuc-hoc-phan-food-calculator\FoodCalculator\obj\Debug\FoodCalculator.pdb

@@ -1,0 +1,12 @@
+Popular Types of Cornbread	Fat(g)	Carbs(g)	Prot(g)	Calories		
+						`
+						
+ Homemade Cornbread\	6.12\	27.47\	27.47\	183\		
+ Cornbread from Dry Mix\	6\	28.86\	28.86\	188\		
+ Cornbread with Low Fat Milk\	4.62\	28.28\	28.28\	173\		
+ Chicken Cornbread\	5.53\	6.12\	6.12\	115\		
+ Cornbread with Egg Substitute\	0.95\	16\	16\	86\		
+ 1 Round Stick Cornbread Muffin\	3.28\	19.85\	19.85\	119\		
+ 1 Toasted Round Stick Cornbread Muffin\	3.18\	19.29\	19.29\	116\		
+ 1/2 cup Cornbread Stuffing Dry Mix\	8.8\	21.9\	21.9\	179\		
+ 1/2 cup Moist Type Cornbread Stuffing\	8.8\	21.9\	21.9	179\		

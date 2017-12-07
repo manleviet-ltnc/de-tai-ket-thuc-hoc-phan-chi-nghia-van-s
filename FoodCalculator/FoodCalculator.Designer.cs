@@ -38,7 +38,7 @@
             // btnFoodCalories
             // 
             this.btnFoodCalories.BackColor = System.Drawing.Color.Goldenrod;
-            this.btnFoodCalories.Font = new System.Drawing.Font("Adobe Fan Heiti Std B", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFoodCalories.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFoodCalories.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnFoodCalories.Location = new System.Drawing.Point(15, 134);
             this.btnFoodCalories.Name = "btnFoodCalories";
@@ -46,11 +46,12 @@
             this.btnFoodCalories.TabIndex = 0;
             this.btnFoodCalories.Text = "Calories in Food Products";
             this.btnFoodCalories.UseVisualStyleBackColor = false;
+            this.btnFoodCalories.Click += new System.EventHandler(this.btnFoodCalories_Click);
             // 
             // btnBurnedCalories
             // 
             this.btnBurnedCalories.BackColor = System.Drawing.Color.DarkOliveGreen;
-            this.btnBurnedCalories.Font = new System.Drawing.Font("Adobe Fan Heiti Std B", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBurnedCalories.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBurnedCalories.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnBurnedCalories.Location = new System.Drawing.Point(15, 255);
             this.btnBurnedCalories.Name = "btnBurnedCalories";
@@ -62,7 +63,7 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.DodgerBlue;
-            this.button3.Font = new System.Drawing.Font("Adobe Fan Heiti Std B", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button3.Location = new System.Drawing.Point(12, 376);
             this.button3.Name = "button3";
@@ -74,9 +75,9 @@
             // label1
             // 
             this.label1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Font = new System.Drawing.Font("Gloucester MT Extra Condensed", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Image = ((System.Drawing.Image)(resources.GetObject("label1.Image")));
-            this.label1.Location = new System.Drawing.Point(15, 9);
+            this.label1.Location = new System.Drawing.Point(15, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(333, 115);
             this.label1.TabIndex = 3;
@@ -94,6 +95,7 @@
             this.Controls.Add(this.btnFoodCalories);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FoodCalculator";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Food Calculator";
             this.ResumeLayout(false);
 

@@ -1,0 +1,17 @@
+Popular Serving Sizes of Chicken Nuggets				
+ 1 nugget\	3.01\	2.61\	2.49\	48\
+ 1 stick\	2.63\	2.28\	2.18\	42\
+ 1 mini drum\	3.2\	2.77\	2.65\	50\
+ 1 cup\	26.16\	22.68\	21.67\	413\
+ 1 fast food kids' meal\	13.55\	11.75\	11.22\	214\
+ 1 nugget\	1.14\	2.48\	3.47\	35\
+ 1 cup\	8.8\	19.17\	26.81\	271\
+ 1 patty\	14.3\	12.4\	11.85\	226\
+ 1 fillet\	19.01\	16.48\	15.75\	300\
+ 1 tender\	3.01\	2.61\	2.49\	48\
+ 1 finger\	16.56\	14.36\	13.72\	261\
+ 4 Piece Chicken McNuggets\	12\	11\	10\	190\
+ 6 Piece Chicken McNuggets\	15\	15\	15\	250\
+ 10 Piece Chicken McNuggets\	29\	27\	24\	460\
+ 8 Count Chicken Nuggets\	12\	12\	26\	260\
+ 12 Count Chicken Nuggets\	19\	15\	40\	400\

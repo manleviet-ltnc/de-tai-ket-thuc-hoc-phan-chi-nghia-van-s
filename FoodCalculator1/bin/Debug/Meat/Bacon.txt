@@ -1,0 +1,28 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories					
+Popular Serving Sizes of Bacon									
+ 1 thin slice\	2.09\	0.07\	1.85\	27\					
+ 1 medium slice\	3.34\	0.11\	2.96\	43\					
+ 1 thick slice\	5.01\	0.17\	4.44\	65\					
+ 1 oz\	11.7\	0.4\	10.37\	151\					
+ 1 cup pieces\	33.42\	1.14\	29.63\	433\					
+ 1 slice grilled\	1.98\	0.32\	5.7\	43\					
+ 1 oz\	2.36\	0.38\	6.79\	52\					
+ 1 medium slice\	10.21\	0.15\	2.63\	104\					
+ 1 thick slice\	17.12\	0.25\	4.41\	174\					
+ 1 oz\	12.77\	0.19\	3.29\	130\					
+ Baked Bacon\	3.5\	0.11\	2.89\	44\					
+ Microwaved Bacon\	2.8\	0.08\	2.9\	38\					
+ Pan-Fried Bacon\	3.18\	0.12\	3.03\	42\					
+ 1 slice Lower Sodium Smoked or Cured Bacon\	3.34\	0.11\	2.96\	43\					
+ 1 tbsp Real Bacon Bits\	1.5\	-\	3\	25\					
+ 1 tsp Bacon Grease\	4.28\	-\	-\	39\					
+ 1 oz Bacon Fat\	28.21\	-\	0.02\	255\					
+									
+									
+									
+									
+									
+									
+									
+									
+									

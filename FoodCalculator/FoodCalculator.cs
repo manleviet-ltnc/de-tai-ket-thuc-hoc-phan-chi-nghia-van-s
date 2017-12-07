@@ -23,5 +23,11 @@ namespace FoodCalculator
 
         }
 
+        private void btnFoodCalories_Click(object sender, EventArgs e)
+        {
+            var kindOfFood = new KindOfFood();
+            kindOfFood.Show();
+            
+        }
     }
 }

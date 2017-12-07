@@ -1,0 +1,15 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Serving Sizes of Blueberries				
+ 1 Blueberry\	-\	0.2\	0.01\	1\
+ 10 Blueberries\	0.04\	1.97\	0.1\	8\
+ 1/4 cup\	0.12\	5.25\	0.27\	21\
+ 1/2 cup\	0.24\	10.51\	0.54\	41\
+ 1 cup\	0.48\	21.01\	1.07\	83\
+ 1 oz\	0.09\	4.11\	0.21\	16\
+ Frozen Blueberries\	0.99\	18.86\	0.65\	79\
+ Sweetened Frozen Blueberries\	0.3\	50.48\	0.92\	186\
+ Canned Blueberries in Water Pack\	0.54\	23.69\	1.22\	93\
+ Canned Blueberries in Heavy Syrup\	0.84\	56.47\	1.66\	225\
+ 1 Blueberry Muffin\	7.34\	54.24\	6.22\	313\
+ 1 Blueberry Pancake\	3.5\	11.02\	2.32\	84\
+ 1 piece Blueberry Pie\	17.49\	49.24\	3.97\	360\

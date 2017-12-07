@@ -1,0 +1,36 @@
+	
+ White Bread\	1.64\	25.3\	3.82\	133\
+ Whole Wheat Bread\	2.14\	24.51\	4.75\	135\
+ Rye Bread\	2.11\	30.91\	5.44\	166\
+ Multigrain Bread\	1.98\	24.13\	5.2\	131\
+ Sourdough Bread\	1.5\	25.95\	4.4\	137\
+ Mixed Grain Bread\	1.98\	24.13\	5.2\	131\
+ Marble Rye and Pumpernickel Bread\	1.66\	24.91\	4.47\	132\
+ White with Whole Wheat Swirl Bread\	1.94\	25.15\	4.51\	133\
+ Wheat Bread\	1.06\	20.06\	4.19\	91\
+ White Bread\	1.15\	20.38\	4\	95\
+ Multigrain Bread\	1.73\	27.24\	5.57\	121\
+ Rye Bread\	1.51\	21.06\	4.73\	106\
+ Cracked Wheat Bread\	1.95\	24.75\	4.35\	130\
+ Italian Bread\	1.4\	20\	3.52\	108\
+ Oatmeal Bread\	2.38\	26.19\	4.54\	145\
+ Raisin Bread\	2.29\	27.2\	4.11\	142\
+ Wheat Bran Bread\	2.45\	34.42\	6.34\	179\
+ Dinner Roll\	2.04\	14.11\	2.35\	84\
+ Wheat Dinner Roll\	1.76\	12.88\	2.41\	76\
+ Egg Dinner Roll\	2.24\	18.2\	3.32\	107\
+ French Roll\	1.63\	19.08\	3.27\	105\
+ Hamburger or Hotdog Roll\	1.86\	21.26\	4.08\	120\
+ Mixed Grain Hamburger or Hotdog Roll\	2.58\	19.18\	4.13\	113\
+ 1 White Pita Bread\	0.72\	33.42\	5.46\	165\
+ 1 Whole Wheat Pita Bread\	1.66\	35.2\	6.27\	170\
+ 1 Plain Bread Stick\	0.95\	6.84\	1.2\	41\
+ 2 slices Garlic Bread\	7.41\	26.46\	4.5\	191\
+ 2 slices Cheese Bread\	2.49\	25.03\	4.42\	142\
+ 2 slices Onion Bread\	1.6\	24.94\	3.74\	131\
+ 2 slices Egg Bread\	4.8\	38.24\	7.6\	226\
+ 2 slices Banana Bread\	12.6\	65.52\	5.16\	391\
+ 2 slices Baguette\	3.84\	66.43\	11.26\	351\
+ 2 slices Ciabatta\	1.4\	20\	3.52\	108\
+				
+				
