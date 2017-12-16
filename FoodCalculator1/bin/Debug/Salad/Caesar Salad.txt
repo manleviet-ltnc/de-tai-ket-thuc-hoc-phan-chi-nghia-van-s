@@ -1,9 +1,0 @@
-	Fat(g)	Carbs(g)	Prot(g)	Calories					
-Popular Sizes of Caesar Salad with Romaine									
- 1/2 cup\	7.65\	3.52\	2.72\	92\					
- 1 cup\	15.3\	7.04\	5.43\	184\					
- 1 side salad\	12.61\	5.8\	4.48\	151\					
- 1 oz\	4.02\	1.85\	1.43\	48\					
- Caesar Salad with Grilled Chicken\	6.47\	11.41\	28.53\	196\					
- Caesar Salad with Crispy Chicken\	14.72\	22.52\	24.76\	294\					
-									

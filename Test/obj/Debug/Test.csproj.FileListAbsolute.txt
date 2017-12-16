@@ -1,6 +1,0 @@
-C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\Test\bin\Debug\Test.exe.config
-C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\Test\bin\Debug\Test.exe
-C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\Test\bin\Debug\Test.pdb
-C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\Test\obj\Debug\Test.exe
-C:\Users\LittleboyQti\Desktop\Trinh Hong\de-tai-ket-thuc-hoc-phan-food-calculator\Test\obj\Debug\Test.pdb
