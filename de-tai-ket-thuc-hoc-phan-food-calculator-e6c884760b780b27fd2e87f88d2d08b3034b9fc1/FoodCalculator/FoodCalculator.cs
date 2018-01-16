@@ -31,19 +31,25 @@ namespace FoodCalculator
         private void btnFoodCalories_Click(object sender, EventArgs e)
         {
             var kindOfFood = new KindOfFood();
-            kindOfFood.Show();
+            this.Hide();
+            kindOfFood.ShowDialog();
+            this.Show();
         }
 
         private void btnBurnedCalories_Click(object sender, EventArgs e)
         {
             BurnedCalories burned = new BurnedCalories();
-            burned.Show();
+            this.Hide();
+            burned.ShowDialog();
+            this.Show();
         }
 
         private void btnPWS_Click(object sender, EventArgs e)
         {
             PersonalWeightStatistic statistic = new PersonalWeightStatistic();
-            statistic.Show();
+            this.Hide();
+            statistic.ShowDialog();
+            this.Show();
         }
     }
 }
