@@ -1,5 +1,0 @@
-CREATE DATABASE Food
-GO
-
-USE FoodCalculator
-GO
