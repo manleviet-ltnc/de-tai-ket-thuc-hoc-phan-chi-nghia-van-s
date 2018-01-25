@@ -1,0 +1,21 @@
+una Fish in Water	1.68	0	13.38	73	133
+Tuna Fish in Oil	4.58	0	15.03	105	125
+Pink Salmon	2.74	0	13.09	77	124
+Sardines in Oil	6.49	0	13.96	118	133
+Mackerel	3.57	0	13.15	88	130
+Atlantic Cod	1.55	0	41.14	189	134
+Atlantic Mackerel	15.56	0	20.83	230	134
+Catfish	12.07	0	24.72	215	125
+Flounder	5.51	0.53	28.6	173	134
+Haddock	5.71	0.74	34	197	130
+Mahi Mahi	0.82	0	21.76	100	132
+Perch	1.89	0.2	10.87	64	123
+Pike	4.65	0.52	28.56	164	128
+Rainbow Trout	4.27	0	16.49	109	131
+Snapper	2.92	0	44.71	218	125
+Striped Mullet	4.51	0	23.03	139	129
+Tilapia	3.77	0.39	21.73	128	132
+Trout	6.24	0.31	15.81	124	130
+Whitefish	11.6	0	37.8	265	127
+Atlantic and Pacific Halibut	4.67	0	42.44	223	124
+Pink Salmon	5.49	0	31.7	184	132

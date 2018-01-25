@@ -1,0 +1,15 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Garden Salad				
+ Garden Salad with Assorted Vegetables\	0.11\	2.32\	0.55\	11\
+ Garden Salad with Vegetables (incl Tomatoes and Carrots)\	0.12\	2.77\	0.63\	12\
+ Garden Salad with Avocado, Tomato and Carrots\	3.01\	4.61\	0.98\	45\
+ Garden Salad with Egg, Tomato and Carrots\	2.4\	3.19\	3.28\	47\
+ Garden Salad with Cheese, Tomato and Carrots\	5.53\	2.9\	4.6\	78\
+ Garden Salad with Egg, Cheese, Tomato and Carrots\	7.41\	7.41\	7.86\	123\
+ Caesar Salad\	15.3\	7.04\	5.43\	184\
+ Cobb Salad\	12.36\	5.83\	8.04\	161\
+ Cucumber Salad\	15.39\	10.62\	0.73\	183\
+ Greek Salad\	7.28\	3.38\	6.99\	106\
+ Potato Salad\	12.87\	34.16\	3.22\	259\
+ Spinach Salad\	4.82\	11.2\	5.11\	107\
+ Yellow or Green String Beans Salad\	4.56\	14.93\	4.3\	114\

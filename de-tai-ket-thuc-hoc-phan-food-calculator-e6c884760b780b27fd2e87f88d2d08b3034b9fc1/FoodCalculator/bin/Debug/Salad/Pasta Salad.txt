@@ -1,0 +1,12 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Pasta Salad				
+ Pasta or Macaroni Salad\	18.82\	40.67\	6.66\	358\
+ Pasta Salad with Chicken\	23.61\	26.55\	17.89\	391\
+ Pasta Salad with Egg\	22.82\	32.5\	9.35\	372\
+ Pasta Salad with Shrimp\	16.69\	35.42\	10.48\	335\
+ Pasta Salad with Tuna\	16.18\	34.5\	12.51\	335\
+ Pasta Salad with Cheese\	19.51\	36.76\	10.21\	359\
+ Pasta Salad with Crab Meat\	16.69\	35.17\	10.62\	333\
+ Pasta Salad with Meat\	14.43\	31.75\	11.79\	304\
+ Pasta Salad with Oil and Vinegar Dressing\	10.09\	34.25\	5.82\	250\
+ Pasta Salad with Tuna and Egg\	19.2\	27.01\	15.4\	343\

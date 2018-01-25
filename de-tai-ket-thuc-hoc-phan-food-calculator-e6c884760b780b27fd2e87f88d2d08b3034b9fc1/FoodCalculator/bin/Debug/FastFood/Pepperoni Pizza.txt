@@ -1,0 +1,18 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Pepperoni Pizza				
+ 1 slice\	12.13\	33.98\	13.32\	298\
+ 1 pie\	107.7\	301.7\	118.24\	2647\
+ 1 oz\	3.18\	8.92\	3.5\	78\
+ 1 slice\	13.24\	32.22\	13.18\	301\
+ 1 pie\	124.28\	302.48\	123.68\	2826\
+ 1 oz\	3.54\	8.62\	3.52\	81\
+ 1 pizza\	65.06\	122.02\	47.98\	1267\
+ 1 oz\	4.31\	8.08\	3.18\	84\
+ Pepperoni Hand-Tossed Style Pizza\	11\	24\	12\	240\
+ Pepperoni & Mushroom Pan Pizza\	13\	27\	11\	260\
+ Pepperoni & Mushroom Thin'N Crispy Pizza\	8\	21\	9\	190\
+ Pepperoni & Mushroom Hand-Tossed Style Pizza\	9\	25\	11\	230\
+ Hand Tossed Pepperoni Feast Pizza\	17.5\	35\	16\	362\
+ Thin Crust Pepperoni Feast Pizza\	19.5\	21\	13\	312\
+ Deep Dish Pepperoni Feast Pizza\	22\	42\	16\	430\
+ Brooklyn Pepperoni Feast Pizza\	21\	30\	17\	377\

@@ -1,0 +1,45 @@
+	Fat(g)	Carbs(g)	Prot(g)	Calories
+Popular Types of Salad				
+ Mixed Salad Greens\	0.13\	1.76\	0.84\	9\
+ Lettuce Salad with Assorted Vegetables\	0.11\	2.32\	0.55\	11\
+ Lettuce Salad with Assorted Vegetables (including Tomato and/or Carrots)\	0.12\	2.77\	0.63\	12\
+ Lettuce Salad with Avocado, Tomato and/or Carrots\	3.01\	4.61\	0.98\	45\
+ Lettuce Salad with Cheese, Tomato and/or Carrots\	5.53\	2.9\	4.6\	78\
+ Lettuce Salad with Egg, Cheese, Tomato and/or Carrots\	2.48\	2.48\	2.63\	41\
+ Lettuce Salad with Egg, Tomato and/or Carrots\	2.4\	3.19\	3.28\	47\
+ Lettuce Salad with Tomato\	0.15\	3.17\	0.76\	15\
+ Bean Salad\	4.56\	14.93\	4.3\	114\
+ Cabbage Salad or Coleslaw\	23.64\	14.08\	2.36\	269\
+ Egg Salad\	67.18\	4.28\	20.42\	706\
+ Garden Salad\	2.48\	2.48\	2.63\	41\
+ Greek Salad\	7.28\	3.38\	6.99\	106\
+ Pea Salad\	41.88\	21.91\	10.61\	501\
+ Potato Salad\	20.5\	27.92\	6.7\	358\
+ Tuna Salad\	22.92\	14.48\	29.68\	383\
+Salads with Meat (1 cup serving)\	\	\	\	\
+ Beef Salad\	38.26\	2.55\	33.45\	495\
+ Chicken or Turkey Garden Salad\	1.13\	2.13\	9.49\	58\
+ Chicken or Turkey Salad\	31.5\	2.55\	29.48\	417\
+ Ham Salad\	30.21\	2.55\	27.12\	395\
+ Cobb Salad\	12.36\	5.83\	8.04\	161\
+Salads with Seafood (1 cup serving)\	\	\	\	\
+ Crab Salad\	27.77\	4.18\	27.6\	381\
+ Lobster Salad\	13.47\	6.35\	11.1\	189\
+ Salmon Salad\	29.52\	6.43\	27.37\	406\
+ Seafood Garden Salad\	1.35\	2.52\	6.94\	50\
+ Shrimp Salad\	15.89\	4.46\	23.59\	258\
+\	Fat(g)\	Carbs(g)\	Prot(g)\	Calories\
+Other Popular Salads\	\	\	\	\
+(1 cup serving)\	\	\	\	\
+ Apple Salad\	20.59\	15.02\	2.06\	242\
+ Broccoli Salad\	27.1\	20.56\	3.78\	330\
+ Carrot Salad\	29.5\	40.22\	2.43\	416\
+ Chinese Cabbage Salad\	5.94\	4.06\	0.86\	69\
+ Kidney Bean Salad\	15.45\	45.11\	12.75\	358\
+ Macaroni or Pasta Salad\	18.82\	40.67\	6.66\	358\
+ Pea Salad with Cheese\	47.49\	18.21\	18.85\	571\
+ Potato Salad with Egg\	13.61\	30.8\	5.35\	262\
+ Seven-Layer Salad\	25.61\	7.54\	5.66\	281\
+ Tropical Fruit Salad\	0.26\	57.47\	1.05\	221\
+ Tuna Salad with Cheese\	30.62\	14.29\	30.04\	451\
+ Tuna Salad with Egg\	26.89\	13.02\	28.52\	408\
